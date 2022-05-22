@@ -7,7 +7,7 @@ namespace operatörler
         static void Main(string[] args)
         {
             Console.WriteLine("Atama ve işlemli atama operatörler");
-            // Atama ve İşlemli Atama
+            // Atama ve İşlemli Atamaa
 
             int x = 3;
             int y = 3;
